@@ -1,0 +1,48 @@
+.myclass{
+    display:flex;
+    justify-content: center;
+}
+.mycls{
+    display:flex;
+    justify-content: center;
+}
+.number{
+    display:flex;
+    gap:15px;
+    margin:5px;
+    color: solid black;
+    display:flex;
+    justify-content: center;  
+}
+
+.varu{
+    width:25px;
+    height:25px;
+    border:2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.active{
+    color: rgb(8, 7, 83);
+    font-weight:bold;
+    background-color:green;
+    width:25px;
+    height:25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:50%; 
+}
+
+button{
+    background-color: black;
+    color:white;
+    font-size: xx-large;
+}
+
+.question{
+    font-size: xx-large;
+}
